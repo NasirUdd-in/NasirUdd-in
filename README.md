@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer | Quick Learner</em></p>
 
-[![Linkedin: shahid-ul](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-uddin-8a4151159/)](https://www.linkedin.com/in/nasir-uddin-8a4151159/)
+[![Linkedin: Nasir](https://img.shields.io/badge/-Shahid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-uddin-8a4151159/)](https://www.linkedin.com/in/nasir-uddin-8a4151159/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nasiruddin.shakil.5/)
 
 
