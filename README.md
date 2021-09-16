@@ -1,5 +1,5 @@
 <h2>Assalamuyalaikum, I'm Nasir! 👋</h2>
-<img align='right' src="giphy.gif" width="230">
+<img align='right' src="giphy2.gif" width="230">
 <p><em>Software Engineer | Quick Learner</em></p>
 
 [![Linkedin: Nasir Uddin](https://img.shields.io/badge/-Nasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-uddin-8a4151159/)](https://www.linkedin.com/in/nasir-uddin-8a4151159/)
