@@ -1,5 +1,5 @@
 <h2>Assalamuyalaikum, I'm Nasir! 👋</h2>
-<img align='right' src="gifntext-gif.gif" width="370">
+<img align='right' src="gifntext-gif.gif" width="340">
 <p><em>Software Engineer | Quick Learner</em></p>
 
 [![Linkedin: Nasir Uddin](https://img.shields.io/badge/-Nasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-uddin-8a4151159/)](https://www.linkedin.com/in/nasir-uddin-8a4151159/)
@@ -13,7 +13,7 @@
 
 ##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1dyEEKQcWo-s0_2FxEiKO50YaRbgfQ65j/view)
 
-<!--
+
 Here are some ideas to get you started:
 
 
