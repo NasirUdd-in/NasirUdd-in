@@ -11,7 +11,7 @@
 
 ### 📑 my resume/cv:
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1dyEEKQcWo-s0_2FxEiKO50YaRbgfQ65j/view)
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1bF2QBhqsoxd2VjrTzZSXmwk2m0kY3tm3/view)
 
 
 Here are some ideas to get you started:
