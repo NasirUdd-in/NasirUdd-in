@@ -1,32 +1,35 @@
-<h2>Assalamuyalaikum, I'm Nasir! 👋</h2>
-<img align='right' src="gifntext-gif.gif" width="340">
-<p><em>Software Engineer | Quick Learner</em></p>
+<h1 align="center">Hi 👋, I'm Nasir Uddin</h1>
+<h3 align="center">A passionate FullStack developer from Bangladesh</h3>
 
-[![Linkedin: Nasir Uddin](https://img.shields.io/badge/-Nasir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nasir-uddin-8a4151159/)](https://www.linkedin.com/in/nasir-uddin-8a4151159/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/nasiruddin.shakil.5/)
+- 🔭 I’m currently working on **MERN**
 
+- 🌱 I’m currently learning **MERN**
 
-### <img src="giphy.gif" width="50"> 
+- 👯 I’m looking to collaborate on **MERN**
 
+- 🤝 I’m looking for help with **MERN**
 
-### 📑 my resume/cv:
+- 👨‍💻 All of my projects are available at [https://github.com/NasirUdd-in](https://github.com/NasirUdd-in)
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1bF2QBhqsoxd2VjrTzZSXmwk2m0kY3tm3/view)
+- 💬 Ask me about **MERN**
 
+- 📫 How to reach me **nasir.diudevs@gmail.com**
 
-Here are some ideas to get you started:
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dyEEKQcWo-s0_2FxEiKO50YaRbgfQ65j/view?usp=sharing](https://drive.google.com/file/d/1dyEEKQcWo-s0_2FxEiKO50YaRbgfQ65j/view?usp=sharing)
 
+- ⚡ Fun fact **I think I am funny**
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning more technology for full stack developer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nasir-uddin-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir-uddin-cse" height="30" width="40" /></a>
+<a href="https://fb.com/nasiruddin.shakil.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasiruddin.shakil.5" height="30" width="40" /></a>
+<a href="https://www.behance.net/nasirtechies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nasirtechies" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nasir.diudevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nasir.diudevs" height="30" width="40" /></a>
+</p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- 🥅 2021 Goals: Learn Node.js, Express.js
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirudd-in&show_icons=true&locale=en" alt="nasirudd-in" /></p>
 
-<br />
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirudd-in&" alt="nasirudd-in" /></p>
