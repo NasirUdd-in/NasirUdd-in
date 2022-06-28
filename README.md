@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MERN**
-
-- 👯 I’m looking to collaborate on **MERN**
-
-- 🤝 I’m looking for help with **MERN**
-
 - 👨‍💻 All of my projects are available at [https://github.com/NasirUdd-in](https://github.com/NasirUdd-in)
 
 - 💬 Ask me about **MERN**
